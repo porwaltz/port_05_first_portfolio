@@ -67,7 +67,7 @@ html {
     color: #eeeeee;
     text-decoration: none;
 }
-#title{
+.title{
     color: #eeeeee;
     display: flex;
     flex-direction: column;
@@ -151,6 +151,10 @@ h2{
 img{
     width: 27vw;
 }
+.main-project{
+    width: 40vw;
+}
+
 .project-tile:hover{
     background-color: #1e392a;
     text-decoration: none;
