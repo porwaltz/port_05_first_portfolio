@@ -151,7 +151,9 @@ h2{
 img{
     width: 27vw;
 }
-
+.main-project{
+    width: 40vw;
+}
 
 .project-tile:hover{
     background-color: #1e392a;
